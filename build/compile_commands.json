@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/artem/Downloads/CS2-ShareCfg-main/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\CS2_ShareCfg.dir\\main.cpp.obj -c C:\\Users\\artem\\Downloads\\CS2-ShareCfg-main\\main.cpp",
+  "file": "C:/Users/artem/Downloads/CS2-ShareCfg-main/main.cpp",
+  "output": "CMakeFiles/CS2_ShareCfg.dir/main.cpp.obj"
+}
+]

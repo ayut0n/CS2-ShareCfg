@@ -1,0 +1,3 @@
+C:/Users/artem/Downloads/CS2-ShareCfg-main/build/CMakeFiles/CS2_ShareCfg.dir
+C:/Users/artem/Downloads/CS2-ShareCfg-main/build/CMakeFiles/edit_cache.dir
+C:/Users/artem/Downloads/CS2-ShareCfg-main/build/CMakeFiles/rebuild_cache.dir
